@@ -5,7 +5,7 @@ using System.Text;
 
 namespace todoleidy.Functions.Entities
 {
-    public class TodoEntity : TableEntity
+    public class TodoEntity : TableEntity //Lo que se va a guardar como tabla
     {
         public DateTime CreatedTime { get; set; }
         public string TaskDescription { get; set; }
