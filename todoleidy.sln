@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoleidy.Common", "todoleidy.Common\todoleidy.Common.csproj", "{41D89B84-BC23-4B3A-92F1-C2AF768AFA87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoleidy.Common", "todoleidy.Common\todoleidy.Common.csproj", "{41D89B84-BC23-4B3A-92F1-C2AF768AFA87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoleidy.Functions", "todoleidy.Functions\todoleidy.Functions.csproj", "{208DAACF-5533-40FD-8433-D6870DDBED77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoleidy.Functions", "todoleidy.Functions\todoleidy.Functions.csproj", "{208DAACF-5533-40FD-8433-D6870DDBED77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoleidy.Test", "todoleidy.Test\todoleidy.Test.csproj", "{9C9B591A-3734-437F-BEC0-5028CA14E20E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoleidy.Test", "todoleidy.Test\todoleidy.Test.csproj", "{9C9B591A-3734-437F-BEC0-5028CA14E20E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
